@@ -117,4 +117,3 @@
       height="40"
     />
 </p>
-[Топ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aodxfaionn)](https://github.com/aodxfaionn/github-readme-stats)
