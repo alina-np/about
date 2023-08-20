@@ -100,4 +100,5 @@
       height="40"
     />
 </p>
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={aodxfaionn}&theme={nord_bright}&exclude={exclude}
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={aodxfaionn}&theme={nord_bright}&exclude={exclude}" />
