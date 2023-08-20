@@ -41,7 +41,7 @@
     />
 </p>
 <h3>Frontend Development:</h3>
-<p">
+<p>
         <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -84,7 +84,6 @@
       width="40"
       height="40"
     />
-  </a>
 </p>
 <h3>Software:</h3>
 <p>
@@ -101,4 +100,4 @@
       height="40"
     />
 </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aodxfaionn&theme=nord_bright)
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={aodxfaionn}&theme={nord_bright}&exclude={exclude}
