@@ -4,8 +4,8 @@
   border="0"
 />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2>Connect with me:</h3>
+<p>
   <a href="https://t.me/Alinnick" target="blank"
     ><img
       src="https://ie.wampi.ru/2022/08/02/telegram-svg.png"
@@ -25,8 +25,8 @@
       border="0"
   /></a>
 </p>
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
+<h2>Programming Languages:</h3>
+<p>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -40,8 +40,8 @@
       height="40"
     />
 </p>
-<h3 align="left">Frontend Development:</h3>
-<p align="left">
+<h3>Frontend Development:</h3>
+<p">
         <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -86,8 +86,8 @@
     />
   </a>
 </p>
-<h3 align="left">Software:</h3>
-<p align="left">
+<h3>Software:</h3>
+<p>
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
@@ -101,3 +101,4 @@
       height="40"
     />
 </p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aodxfaionn&theme=nord_bright)
