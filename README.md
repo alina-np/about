@@ -4,7 +4,7 @@
   border="0"
 />
 
-<h2>Connect with me:</h3>
+<h2>Connect with me:</h2>
 <p>
   <a href="https://t.me/Alinnick" target="blank"
     ><img
@@ -25,7 +25,7 @@
       border="0"
   /></a>
 </p>
-<h2>Programming Languages:</h3>
+<h2>Programming Languages:</h2>
 <p>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -40,7 +40,7 @@
       height="40"
     />
 </p>
-<h3>Frontend Development:</h3>
+<h2>Frontend Development:</h2>
 <p>
         <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -85,7 +85,7 @@
       height="40"
     />
 </p>
-<h3>Software:</h3>
+<h2>Software:</h2>
 <p>
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -100,6 +100,7 @@
       height="40"
     />
 </p>
+<h2>Info:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aodxfaionn" />
 </a>
