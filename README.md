@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/toXKzaJP3WIgM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NjB4eThha2RpZGlneWduaDhlZG9weGJ1YzY2cHY1YWg4ZXNpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" /> 
 
 <h2>Connect with me:</h2>
 <p>
