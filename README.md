@@ -1,28 +1,12 @@
-<div id="header" align="center">
-  <img src="<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NjB4eThha2RpZGlneWduaDhlZG9weGJ1YzY2cHY1YWg4ZXNpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" width="100"/>
+<div" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NjB4eThha2RpZGlneWduaDhlZG9weGJ1YzY2cHY1YWg4ZXNpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" width="100"/>
 </div>
-<h1>Hello! 👨‍💻 My name is Alina and I am a Front End Developer</h1>
+<h1>Hello! My name is Alina and I am a Front End Developer</h1>
 <h2>Connect with me:</h2>
-<p>
-  <a href="https://t.me/Alinnick" target="blank"
-    ><img
-      src="https://ie.wampi.ru/2022/08/02/telegram-svg.png"
-      alt="TG"
-      border="0"
-  /></a>
-  <a href="https://wa.clck.bar/79159842321" target="blank"
-    ><img
-      src="https://im.wampi.ru/2022/08/02/whatsapp-svg.png"
-      alt="WA"
-      border="0"
-  /></a>
-  <a href="https://instagram.com/alin.als" target="blank"
-    ><img
-      src="https://ie.wampi.ru/2022/08/02/instagram-svg.png"
-      alt="Inst"
-      border="0"
-  /></a>
-</p>
+<div>
+  <a href="https://t.me/Alinnick" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TG"/></a>
+  <a href="https://wa.clck.bar/79159842321" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WA" /></a>
+</div>
 <h2>Programming Languages:</h2>
 <p>
     <img
