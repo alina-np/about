@@ -1,5 +1,7 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NjB4eThha2RpZGlneWduaDhlZG9weGJ1YzY2cHY1YWg4ZXNpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" /> 
-
+<div id="header" align="center">
+  <img src="<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NjB4eThha2RpZGlneWduaDhlZG9weGJ1YzY2cHY1YWg4ZXNpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" width="100"/>
+</div>
+<h1>Hello! 👨‍💻 My name is Alina and I am a Front End Developer</h1>
 <h2>Connect with me:</h2>
 <p>
   <a href="https://t.me/Alinnick" target="blank"
