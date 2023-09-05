@@ -1,8 +1,4 @@
-<img
-  src="https://ie.wampi.ru/2022/08/02/rm362-04d-1-1.jpg"
-  alt="I"
-  border="0"
-/>
+<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/toXKzaJP3WIgM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 <h2>Connect with me:</h2>
 <p>
